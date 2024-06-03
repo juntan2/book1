@@ -13,6 +13,7 @@
         android:layout_width="341dp"
         android:layout_height="0dp"
         android:gravity="center_horizontal|top"
+        android:fontFamily="@font/wag1"
         android:text="Think about your Concerns Touch the Ball"
         android:textColor="@color/white"
         android:textSize="25sp"
